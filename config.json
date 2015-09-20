@@ -1,0 +1,22 @@
+{
+  "name" : "basic-php-template",
+  "title" : "PHP Scaffolding",
+  "description" : "The project can be used as the scaffolding for any PHP project using custom framework.",
+  "version" : "0.0.1v",
+  "homepage": "https://github.com/talib570/basic-php-tempate",
+  "author": {
+    "name": "Talib Allauddin",
+    "email": "talib_570@live.com"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/talib570/basic-php-tempate.git"
+  },
+  "bugs": "https://github.com/talib570/basic-php-tempate/issues",
+  "licenses": [
+    {
+      "type": "GPL",
+      "url": "https://github.com/talib570/basic-php-tempate/blob/master/LICENSE"
+    }
+  ]
+}
